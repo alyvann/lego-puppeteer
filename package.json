@@ -1,0 +1,15 @@
+{
+  "name": "lego-scrape",
+  "version": "1.0.0",
+  "description": "scrape lego themes using puppeteer",
+  "main": "puppeteer.js",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
